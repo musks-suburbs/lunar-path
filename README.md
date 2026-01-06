@@ -18,7 +18,7 @@ All actions are read-only, ensuring no changes to the blockchain.
 
 ## Repository Structure
 
-- **app.lunar-path.ts**  
+- **app/lunar-path.ts**  
   The core script that connects to Coinbase Wallet and queries Base Sepolia RPC for onchain data.
 
 - **contracts/**  
